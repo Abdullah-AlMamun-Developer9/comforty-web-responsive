@@ -1,0 +1,1054 @@
+
+/* 2222222222222222222222222222222@media (max-width: 1255px)22222222222222222222222222222222222222 */
+  
+@media (max-width: 1255px) {
+  .main-area .text-area1 h1 {
+    font-size: 55px;
+    line-height: 105%;
+  }
+  .main-area .text-area1 h5 {
+    font-size: 12px;
+  }
+  .main-area .text-area1 .btn2 {
+    gap: 16px;
+    padding: 12px 14px;
+  }
+  .main-area .text-area1 .btn2 span {
+    font-size: 14px;
+  }
+  .categories-img-area .text-main h5 {
+    line-height: 18px;
+    font-size: 14px;
+  }
+  .categories-img-area .text-main p {
+      line-height: 14px;
+      font-size: 8px;
+  }
+  .clints-area .clint-details .para p {
+    font-size: 16.2px;
+    line-height: 24px;
+  }
+
+  .footer-section .footer-4th-side {
+    display: inline-block;
+  }
+  .footer-section .footer-newsletter {
+    padding-top: 40px;
+  }
+}
+
+ /* 333333333333333333333333333333333@media (max-width: 1130px)33333333333333333333333333333333333333 */
+  
+ @media (max-width: 1130px) {
+  .main-area .text-area1 h1 {
+    font-size: 50px;
+    line-height: 100%;
+  }
+  .main-area .text-area1 h5 {
+    font-size: 10.5px;
+  }
+  .main-area .text-area1 .btn2 {
+    gap: 15px;
+    padding: 12px 11px;
+  }
+  .chair-area1 .bg-shapes img {
+    width: 494px;
+    height: 345px;
+  }
+  .chair-area1 .chair1 img {
+    width: 300px;
+  }
+  .chair-area1 .discount img {
+    width: 80px;
+    top: 50px;
+  }
+  .first-bank .discount, .free-delivary, .great-support, .secure-Payment {
+    gap: 8px;
+  }
+  .first-bank .discount-logo a img {
+    width: 30px;
+    height: 35px;
+  }
+  .first-bank .delivary-logo a img {
+    width: 45px;
+    height: 35px;
+  }
+  .first-bank .great-support-logo a img {
+    width: 33px;
+    height: 35px;
+  }
+  .first-bank .secure-Payment-logo a img {
+    width: 33px;
+    height: 35px;
+  }
+  .first-bank h4 {
+    font-size: 14px;
+    line-height: 16px;
+  }
+  .first-bank p {
+    font-size: 11px;
+    line-height: 22px;
+  }
+  .clints-area .clint-details .para p {
+    font-size: 14.3px;
+  }
+}
+
+ /* 444444444444444444444444444444@media (max-width: 1103px)44444444444444444444444444444444444444444 */
+  
+ @media (max-width: 1103px) {
+  .main-area .text-area1 .btn2 span {
+    font-size: 12px;
+  }
+  .main-area .text-area1 h1 {
+    font-size: 48px;
+    line-height: 100%;
+  }
+  .main-area .text-area1 h5 {
+    font-size: 10px;
+  }
+  .clints-area .clint-details .para p {
+    font-size: 13.9px;
+  }
+
+}
+
+/* 5555555555555555555555555555@media (max-width: 978px)55555555555555555555555555555555555555555555 */
+
+@media (max-width: 978px) {
+  .up-header input {
+    font-size: 8px;
+  }
+  .main-area .text-area1 h1 {
+    font-size: 38px;
+  }
+  .main-area .text-area1 h5 {
+    font-size: 8.5px;
+  }
+  .chair-area1 .bg-shapes img {
+    width: 430px;
+    height: 310px;
+    right: -10px;
+  }
+  .chair-area1 .chair1 img {
+    width: 260px;
+  }
+  .chair-area1 .discount img {
+    width: 73px;
+    top: 44px;
+  }
+  .main-area .text-area1 .btn2 {
+    gap: 8px;
+    padding: 10px 5px;
+  }
+  .main-area .text-area1 .btn2 span {
+    font-size: 10px;
+  }
+  .main-area .text-area1 .btn2 .fa-arrow-right{
+    font-size: 13px;
+  }
+  .first-bank {
+    padding: 50px 30px;
+  }
+  .first-bank .discount, .free-delivary, .great-support, .secure-Payment {
+    gap: 8px;
+  }
+  .first-bank .discount-logo a img {
+    width: 27px;
+    height: 38px;
+  }
+  .first-bank .delivary-logo a img {
+    width: 40px;
+  }
+  .first-bank .great-support-logo a img {
+    width: 30px;
+  }
+  .first-bank .secure-Payment-logo a img {
+    width: 30px;
+  }
+  .first-bank h4 {
+    font-size: 11px;
+    line-height: 22px;
+  }
+  .first-bank p {
+    font-size: 9px;
+    line-height: 8px;
+    margin-top: 0px;
+  }
+  .secound-bank a img {
+    width: 80%;
+  }
+  .featured-img {
+    display: inline-block;
+  }
+  .featured-img .img-fst, .img-scnd, .img-thrd,.img-frth {
+    padding-bottom: 40px;
+  }
+  .featured-img .logo-text p {
+    margin: 8px 0px 4px 0px;
+  }
+  .featured-img .logo-text .logo1 a img {
+    margin-top: 10px;
+  }
+  .categories-img-area .text-main {
+    padding: 4.6px 0px;
+  }
+  .categories-img-area .text-main h5 {
+    font-size: 12px;
+  }
+  .categories-img-area .text-main p {
+    font-size: 8.3px;
+  }
+  .clints-area .clint-details {
+    display: inline-block;
+  }
+  .clints-area .clint-details .clint-document {
+    width: 85%;
+    margin: auto;
+    margin-bottom: 30px;
+  }
+  .clints-area .clint-details .para p {
+    font-size: 19px;
+    line-height: 28px;
+  }
+ 
+}
+
+/* 666666666666666666666666666@media (max-width: 815px)666666666666666666666666666666666666666666 */
+
+@media (max-width: 815px) {
+  .down-header1 {
+      width: 50%;
+      justify-content: space-between;
+  }
+  .down-header .menu1 ul {
+      display: inline-block;
+      margin-top: 20px;
+      position: fixed;
+      z-index: 9999;
+      display: none;
+  }
+  .down-header .menu1 ul li {
+      padding-bottom: 2px;
+  }
+  .hurm2 img {
+     display: block;
+     margin-top: 2px;
+  }
+  .main-area {
+    display: block;
+    text-align: right;
+  }
+  .main-area .text-area1 h1 {
+    font-size: 35px;
+  }
+  .main-area .text-area1 {
+    text-align: left;
+  }
+  .chair-area1 {
+    margin-top: -20px;
+  }
+  .first-bank {
+    padding: 50px 18px;
+  }
+  .first-bank .discount, .free-delivary, .great-support, .secure-Payment {
+    gap: 6px;
+  }
+  .first-bank .discount-logo a img {
+    width: 23px;
+  }
+  .first-bank .delivary-logo a img {
+    width: 34px;
+  }
+  .first-bank .great-support-logo a img {
+    width: 26px;
+  }
+  .first-bank .secure-Payment-logo a img {
+    width: 26px;
+  }
+  .first-bank h4 {
+    font-size: 10px;
+    line-height: 24px;
+  }
+  .first-bank p {
+    font-size: 8px;
+    line-height: 2px;
+  }
+  .categories-img-area .text-main {
+    padding: 8px 0px;
+  }
+  .categories-img-area .text-main h5 {
+    font-size: 14px;
+  }
+  .categories-img-area .text-main p {
+      font-size: 9.5px;
+  }
+  .img-main-opacity {
+    display: none;
+  }
+}
+
+/* 77777777777777777777777777@media (max-width: 775px)7777777777777777777777777777777777777777777 */
+
+@media (max-width: 775px) {
+.header-section .up-header .search {
+    width: 35%;
+  }
+  .header-section .up-header .cart .cart-left {
+    display: none;
+  }
+  .header-section .up-header .cart .cart-hum {
+    display: block;
+  }
+  .header-section .up-header .cart {
+    gap: 8px;
+  }
+  .main-area .text-area1 .btn2 {
+    width: 20%;
+  }
+  .categories-img-area .best-hide {
+    display: none;
+  }
+  .categories-img-area {
+    display: inline-block;
+  }
+  .categories-img-area .text-main {
+    padding: 12px 0px;
+  }
+  .categories-img-area .text-main h5 {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .categories-img-area .text-main p {
+      font-size: 12.3px;
+      line-height: 16px;
+  }
+  .categories-img-area .cate-img img {
+    width: 80%;
+  }
+  .categories-img-area .text-main {
+    width: 80%;
+    left: 10%;
+  }
+  .clints-area .clint-details .para p {
+    font-size: 15.5px;
+    line-height: 26px;
+  }
+  .footer-section .last-comforty a img {
+    width: 35px;
+  }
+  .footer-section .last-comforty h4 {
+    font-size: 22px;
+  }
+  .footer-section .footer-comforty p {
+    font-size: 12px;
+    line-height: 20px;
+  }
+  .footer-section .heading-f {
+    font-size: 13px;
+  }
+  .footer-section .footer-same ul li {
+    margin-bottom: 3px;
+  }
+  .footer-section .footer-same ul li a {
+    font-size: 13.4px;
+  }
+  .footer-area .footer-main-area .right-logo {
+    gap: 10px;
+  }
+  .footer-area .left-text p {
+    font-size: 13px;
+  }
+}
+
+/* 888888888888888888888888888@media (max-width: 632px)8888888888888888888888888888888888888888888 */
+  
+@media (max-width: 632px) {
+  .header-area .right-head {
+      display: none;
+  }
+  .hum-head {
+      display: block;
+  }
+  .header-section .up-header .comforty h4 {
+    font-size: 20px;
+    line-height: 28px;
+  }
+  .header-section .up-header .search {
+    width: 40%;
+  }
+  .up-header input {
+    font-size: 7px;
+  }
+  .header-section .up-header .cart {
+    gap: 5px;
+  }
+  .up-header .search img {
+    width: 20px;
+  }
+  .down-header2 p {
+    font-size: 12px;
+  }
+  .down-header2 span {
+    font-size: 11px;
+  }
+  .main-area .text-area1 .btn2 {
+    width: 25%;
+  }
+  .main-area .text-area1 h1 {
+    font-size: 30px;
+  }
+  .main-area .text-area1 h5 {
+    font-size: 7px;
+  }
+  .chair-area1 .chair1 img {
+    width: 245px;
+  }
+  .chair-area1 .bg-shapes img {
+    width: 400px;
+    height: 295px;
+    right: 0px;
+  }
+  .chair-area1 .discount img {
+    width: 70px;
+  }
+  .first-bank {
+    padding: 50px 10px;
+  }
+  .first-bank .discount-logo a img {
+    width: 20px;
+  }
+  .first-bank .delivary-logo a img {
+    width: 30px;
+  }
+  .first-bank .great-support-logo a img {
+    width: 22px;
+  }
+  .first-bank .secure-Payment-logo a img {
+    width: 22px;
+  }
+  .first-bank h4 {
+    font-size: 8.4px;
+    line-height: 26px;
+  }
+  .first-bank p {
+    font-size: 6.4px;
+    margin-top: -3px;
+  }
+  .our-products-area .our-heading h1 {
+    font-size: 28px;
+  }
+  .our-products-area ul li {
+    margin-right: 18px;
+  }
+  .our-products-area ul li a {
+    font-size: 14px;
+    line-height: 17px;
+    padding: 0px 3px 3px 3px;
+  }
+  .clints-area .what-clints h1 {
+    font-size: 25px;
+    line-height: 30px;
+  }
+  .clints-area .clint-details .clint-document {
+    width: 100%;
+  }
+  .clints-area .clint-details .para p {
+    font-size: 14.6px;
+    line-height: 26px;
+  }
+  .footer-same ul {
+    display: none;
+  }
+  .footer-section .fst-foo {
+    gap: 30px;
+  }
+  .footer-section .footer-same .hurm2 img {
+    display: block;
+ }
+ .footer-section .heading-f {
+  margin-bottom: 12px;
+  font-size: 12px;
+ }
+ .footer-section .footer-same .hurm2 img {
+  height: 11px;
+  width: 12px;
+ }
+ .footer-section .footer-comforty p {
+  font-size: 11px;
+  line-height: 18px;
+}
+.footer-area {
+  padding: 10px 0px;
+}
+.footer-area .footer-main-area {
+  display: inline-block;
+}
+.footer-area .footer-main-area .right-logo {
+  gap: 20px;
+}
+.footer-area .left-text {
+  margin-bottom: 12px;
+}
+.footer-area .left-text p {
+  font-size: 14px;
+}
+  
+}
+
+/* 99999999999999999999999999@media (max-width: 527px)9999999999999999999999999999999999999999999 */
+  
+@media (max-width: 527px) {
+  
+  .header-section .up-header .cart {
+    position: relative;
+  }
+  .up-header .search form {
+    background-color: transparent;
+}
+  .header-section .up-header .search {
+    width: 50%;
+    position: absolute;
+    right: 22px;
+    top: 86px;
+  }
+  .header-section .up-header .cart .cart-middle {
+    background-color: transparent;
+    padding: 0px 10px;
+}
+.header-section .up-header .cart .cart-right {
+  background-color: transparent;
+    padding: 0px 10px;
+}
+  .up-header input {
+    font-size: 7px;
+  }
+  .up-header .search img {
+    width: 17px;
+  }
+  .up-header ::placeholder {
+    font-size: 14px;
+  }
+  .categorys1 {
+    gap: 10px;
+  }
+  .categorys1 span {
+    font-size: 12px;
+  }
+  .main-area .text-area1 h1 {
+    font-size: 25px;
+  }
+  .chair-area1 .chair1 img {
+    width: 220px;
+  }
+  .chair-area1 .bg-shapes img {
+    width: 360px;
+    height: 270px;
+    right: 0px;
+  }
+  .chair-area1 .discount img {
+    width: 62px;
+    top: 46px;
+    right: 43px;
+  }
+  .text-area1 {
+    display: flex;
+    justify-content: space-between;
+  }
+  .main-area .text-area1 .btn2 {
+    position: absolute;
+    right: 30px;
+    top: 358px;
+    width: 18%;
+  }
+  .chair-area1 {
+    margin-top: 0px;
+    align-items: center;
+  }
+  .first-bank {
+    padding: 50px 0px;
+  }
+  .first-bank .discount, .free-delivary, .great-support, .secure-Payment {
+    gap: 3px;
+  }
+  .first-bank .discount-logo a img {
+    width: 16px;
+  }
+  .first-bank .delivary-logo a img {
+    width: 26px;
+  }
+  .first-bank .great-support-logo a img {
+    width: 18px;
+  }
+  .first-bank .secure-Payment-logo a img {
+    width: 18px;
+  }
+  .first-bank h4 {
+    font-size: 7.8px;
+    line-height: 28px;
+  }
+  .first-bank p {
+    font-size: 5.8px;
+    margin-top: -6px;
+  }
+  .featured-area .featurde-text h1 {
+    font-size: 24px;
+    line-height: 30px;
+  }
+  .arrow-right .fa {
+    padding: 9px;
+    font-size: 16px;
+  }
+  .our-products-area nav {
+    padding: 15px 0px;
+  }
+  .our-products-area .our-heading h1 {
+    font-size: 24px;
+  }
+  .our-products-area ul li {
+    margin-right: 8px;
+  }
+  .our-products-area ul li a {
+    font-size: 12.8px;
+    padding: 0px 2px 2px 2px;
+  }
+  .clints-area .what-clints h1 {
+    font-size: 20px;
+  }
+  .clints-area .clint-details .para p {
+    font-size: 12.5px;
+    line-height: 20px;
+  }
+
+  .clints-area .clint-details .kristin {
+    gap: 0px;
+  }
+  .clints-area .clint-details .clint-document a img {
+    width: 80%;
+  }
+  .clints-area .clint-details .clint-document .kristin-text h4 {
+    font-size: 15px;
+    line-height: 16px;
+  }
+  .clints-area .clint-details .esther {
+    gap: 0px;
+    margin-top: 24px;
+  }
+  .clints-area .clint-details .clint-document .kristin-text p {
+    font-size: 12px;
+    line-height: 25px;
+  }
+  .clints-area .clint-details .clint-document .esther-text h4 {
+    font-size: 15px;
+    line-height: 16px;
+  }
+  .clints-area .clint-details .clint-document .esther-text p {
+    font-size: 12px;
+    line-height: 25px;
+  }
+  .footer-section .fst-foo {
+    gap: 22px;
+  }
+  .footer-section .heading-f {
+    font-size: 11px;
+  }
+  .footer-section .social-link-area ul {
+    gap: 12px;
+  }
+  .footer-section .footer-comforty p {
+    font-size: 8.6px;
+    line-height: 15px;
+  }
+  .footer-section .footer-same .hurm2 img {
+    width: 11px;
+  }
+  .footer-section .footer-newsletter p {
+    font-size: 14px;
+  }
+  
+}
+
+/* 10101010101010101010101010@media (max-width: 429px)1010101010101010101010101010101010101010101010 */
+  
+@media (max-width: 429px) {
+
+  .main-area .text-area1 h1 {
+    font-size: 20px;
+  }
+  .main-area .text-area1 .btn2 {
+    top: 352px;
+  }
+  .main-area .text-area1 .btn2 span {
+    font-size: 9px;
+  }
+  .main-area .text-area1 .btn2 .fa-arrow-right {
+    font-size: 11px;
+  }
+  .chair-area1 .chair1 img {
+    width: 200px;
+  }
+  .chair-area1 .bg-shapes img {
+    width: 320px;
+    height: 250px;
+    right: 10px;
+  }
+  .chair-area1 .discount img {
+    width: 53px;
+    top: 43px;
+    right: 45px;
+  }
+  .tracker a img {
+    width: 50px;
+  }
+  .first-bank .discount, .free-delivary, .great-support, .secure-Payment {
+    gap: 2px;
+  }
+  .first-bank .discount-logo a img {
+    width: 14px;
+  }
+  .first-bank .delivary-logo a img {
+    width: 24px;
+  }
+  .first-bank .great-support-logo a img {
+    width: 16px;
+  }
+  .first-bank .secure-Payment-logo a img {
+    width: 16px;
+  }
+  .first-bank h4 {
+    font-size: 6.5px;
+    line-height: 30px;
+  }
+  .first-bank p {
+    font-size: 4.8px;
+    margin-top: -8px;
+  }
+  .featured-area .featurde-text h1 {
+    font-size: 22px;
+    line-height: 30px;
+  }
+  .arrow-right .fa {
+    padding: 8px;
+    font-size: 14px;
+  }
+  .our-products-area .our-heading h1 {
+    font-size: 22px;
+  }
+  .our-products-area ul li {
+    margin-right: 4px;
+  }
+  .our-products-area ul li a {
+    font-size: 11.5px;
+    padding: 0px 1px 1px 1px;
+  }
+  .clints-area .what-clints h1 {
+    font-size: 16px;
+  }
+  .clints-area .clint-details .para p {
+    font-size: 9px;
+    line-height: 16px;
+  }
+  .clints-area .clint-details .clint-document .kristin-text h4 {
+    font-size: 14px;
+  }
+  .clints-area .clint-details .clint-document .kristin-text p {
+    font-size: 11px;
+    line-height: 23px;
+  }
+  .clints-area .clint-details .clint-document .esther-text h4 {
+    font-size: 14px;
+  }
+  .clints-area .clint-details .clint-document .esther-text p {
+    font-size: 11px;
+    line-height: 23px;
+  }
+
+  .footer-section .fst-foo {
+    gap: 12px;
+  }
+  .footer-section .last-comforty h4 {
+    font-size: 17px;
+  }
+  .footer-section .footer-comforty p {
+    font-size: 8px;
+    line-height: 13px;
+    padding: 16px 0px;
+  }
+  .footer-section .heading-f {
+    margin-bottom: 10px;
+    font-size: 9.5px;
+   }
+   .footer-section .footer-newsletter input {
+    padding: 10px;
+  }
+  .footer-section .footer-newsletter .btn2 a {
+    padding: 14px;
+    font-size: 14px;
+  }
+  .footer-section .footer-newsletter p {
+    font-size: 12px;
+  }
+  .footer-section .footer-newsletter input {
+    width: 60%;
+  }
+  .footer-section .footer-newsletter .footer-btn {
+    justify-content: flex-start;
+    gap: 12px;
+  }
+  .footer-section .social-link-area ul {
+    gap: 11px;
+  }
+  .footer-area .left-text p {
+    font-size: 13px;
+  }
+}
+
+/* 1111111111111111111111111111@media (max-width: 364px)1111111111111111111111111111111111111111111 */
+
+@media (max-width: 364px) {
+  .header-area h5 {
+      font-size: 11.5px;
+      line-height: 17px;
+  }
+  .header-area .left-head {
+      gap: 6px;
+  }
+  .header-area .left-head .fa-check {
+      font-size: 15px;
+  }
+  .header-section .up-header .comforty {
+    gap: 4px;
+  }
+  .header-section .up-header .comforty a img {
+    width: 30px;
+    height: 27px;
+  }
+  .header-section .up-header .comforty h4 {
+    font-size: 18px;
+    line-height: 20px;
+  }
+  .header-section .up-header .cart .cart-left a img {
+    width: 14px;
+  }
+  .header-section .up-header .cart .cart-left p {
+    font-size: 11px;
+  }
+  .header-section .up-header .cart .cart-left h2 {
+    font-size: 9px;
+  }
+  .header-section .up-header .search {
+    right: 40px;
+    top: 76px;
+  }
+  .categorys1 {
+    gap: 8px;
+    z-index: 99;
+  }
+  .categorys1 span {
+    font-size: 11px;
+  }
+  .down-area .down-header {
+    display: block;
+  }
+  .hurm2 img {
+    margin-top: 0px;
+  }
+  .categorys1 a img {
+    width: 14px;
+    height: 12px;
+    margin-bottom: 5px;
+  }
+  .main-area .text-area1 h5 {
+    margin-bottom: 5px;
+  }
+  .main-area .text-area1 .btn2 {
+    right: 25px;
+    width: 22%;
+  }
+  .main-area .text-area1 h1 {
+    font-size: 18px;
+  }
+  .main-area .text-area1 .btn2 span {
+    font-size: 10px;
+  }
+  .chair-area1 .chair1 img {
+    width: 180px;
+    padding-right: 40px;
+  }
+  .chair-area1 .bg-shapes img {
+    width: 282px;
+    height: 230px;
+    right: 0px;
+  }
+  .chair-area1 .discount img {
+    right: 22px;
+  }
+  .tracker a img {
+    width: 40px;
+  }
+  
+  .first-bank .discount-logo a img {
+    width: 12px;
+  }
+  .first-bank .delivary-logo a img {
+    width: 20px;
+  }
+  .first-bank .great-support-logo a img {
+    width: 14px;
+  }
+  .first-bank .secure-Payment-logo a img {
+    width: 14px;
+  }
+  .first-bank h4 {
+    font-size: 6px;
+    line-height: 30px;
+  }
+  .first-bank p {
+    font-size: 5px;
+    margin-top: -8px;
+  }
+  .featured-area .featurde-text h1 {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .arrow-right .fa {
+    padding: 8px;
+    font-size: 12px;
+  }
+  .categories-img-area .text-main {
+    padding: 10px 0px;
+  }
+  .categories-img-area .text-main h5 {
+    font-size: 16px;
+    line-height: 20px;
+  }
+  .categories-img-area .text-main p {
+      font-size: 11px;
+      line-height: 14px;
+  }
+  .categories-img-area .cate-img img {
+    width: 85%;
+  }
+  .categories-img-area .text-main {
+    width: 85%;
+    left: 7.5%;
+  }
+  .our-products-area ul li a {
+    font-size: 10px;
+  }
+  .clints-area .what-clints h1 {
+    font-size: 14.5px;
+  }
+  .clints-area .clint-details .para p {
+    font-size: 7px;
+    line-height: 12px;
+  }
+  .clints-area .clint-details .clint-document a img {
+    width: 70%;
+  }
+  .clints-area .clint-details .clint-document .kristin-text h4 {
+    font-size: 12px;
+  }
+  .clints-area .clint-details .clint-document .kristin-text p {
+    font-size: 9px;
+    line-height: 18px;
+  }
+  .clints-area .clint-details .clint-document .esther-text h4 {
+    font-size: 12px;
+  }
+  .clints-area .clint-details .clint-document .esther-text p {
+    font-size: 9px;
+    line-height: 18px;
+  }
+  .kristin-img, .esther-img {
+    margin-right: -10px;
+  }
+
+  .footer-section .fst-foo {
+    gap: 10px;
+  }
+  .footer-section .footer-newsletter .footer-btn {
+    gap: 4px;
+  }
+  .footer-section .footer-newsletter p {
+    font-size: 10px;
+    line-height: 18px;
+  }
+  .footer-section .heading-f {
+    margin-bottom: 5px;
+    font-size: 8px;
+  }
+  .footer-section .footer-comforty p {
+    font-size: 7px;
+    line-height: 11px;
+  }
+  .footer-section .footer-same .hurm2 img {
+    width: 11px;
+    height: 13px;
+  }
+  .footer-section .social-link-area ul {
+    gap: 6px;
+  }
+  .footer-area {
+    padding: 5px 0px;
+  }
+  .footer-area .left-text p {
+    font-size: 11px;
+  }
+  .footer-area .footer-main-area .right-logo {
+    gap: 14px;
+  }
+  .footer-area .footer-main-area .right-logo a img {
+    width: 90%;
+  }
+}
+
+/* 1212121212121212121212121212121212121212121212121211212121212121212112 */
+
+@media (max-width: 324px) {
+  .header-section .up-header .search {
+    right: 30px;
+    width: 52%;
+  }
+  .main-area .text-area1 h1 {
+    font-size: 16px;
+  }
+  .main-area .text-area1 .btn2 span {
+    font-size: 8px;
+  }
+  .chair-area1 .chair1 img {
+    width: 170px;
+  }
+  .chair-area1 .bg-shapes img {
+    width: 268px;
+    height: 218px;
+  }
+  .categories-img-area .cate-img img {
+    width: 90%;
+  }
+  .categories-img-area .text-main {
+    width: 90%;
+    left: 5%;
+  }
+  .clints-area .what-clints h1 {
+    font-size: 13.5px;
+  }
+  .arrow-right .fa {
+    padding: 7px;
+  }
+  .clints-area .clint-details .para p {
+    font-size: 6.5px;
+    line-height: 11px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
